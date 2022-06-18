@@ -28,10 +28,4 @@ while True:
     else:
         istime = True
         time.sleep(1)
-  
-            
-    
         
-
-
- 
